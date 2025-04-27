@@ -12,5 +12,7 @@
 		firefox
 		wget
 	];
+programs.ssh.startAgent = true;
+
 
 }
